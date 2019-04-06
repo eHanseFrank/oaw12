@@ -9,6 +9,7 @@
     "website": "https://github.com/oca/server-ux",
     "author": "Opener B.V., Odoo Community Association (OCA)",
     "data": [
+        'base',
         'security/res_groups.xml',
         'views/res_users.xml',
         'data/res_users.xml',
