@@ -13,6 +13,7 @@
         'views/res_users.xml',
         'data/res_users.xml',
     ],
+    #Add this necessary dependency
     "depends": ['base'],
     "license": "AGPL-3",
     'installable': True,
